@@ -4,3 +4,4 @@
 database/
 __pycache__/
 schema.py
+sqlite-jdbc-3.34.0.jar
