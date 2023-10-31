@@ -1,5 +1,6 @@
 *.ipynb
 *.txt
+!requirements.txt
 database/
 __pycache__/
 schema.py
