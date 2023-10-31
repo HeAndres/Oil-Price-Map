@@ -1,0 +1,5 @@
+*.ipynb
+*.txt
+database/
+__pycache__/
+schema.py
